@@ -1,6 +1,6 @@
 print("hi somebody")
 print("lul")
 print("why are you running?")
-print("why?")
+print("why u?")
 print("DOOR STUCK")
 aboba
