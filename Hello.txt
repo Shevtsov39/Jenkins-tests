@@ -3,4 +3,3 @@ print("hi somebody")
 print("why are you running?")
 print("why?")
 print("DOOR STUCK")
-aboba
