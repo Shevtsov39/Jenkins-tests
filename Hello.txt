@@ -1,4 +1,5 @@
 print("hi somebody")
++ lol
 print("why are you running?")
 print("why u?")
 print("DOOR STUCK")
