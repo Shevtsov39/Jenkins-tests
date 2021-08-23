@@ -2,4 +2,3 @@ print("hi somebody")
 + lol
 print("why are you running?")
 print("why?")
-print("DOOR STUCK")
